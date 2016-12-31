@@ -1,1 +1,0 @@
-apt-get install python2.7-mysqldb

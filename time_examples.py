@@ -13,3 +13,4 @@ print "Year: ", timenow[0], " Month: ", timenow[1]
 timenow = time.asctime(time.localtime(time.time()))    # better formatting
 print "Current time :", timenow
 
+# Adding a comment...
