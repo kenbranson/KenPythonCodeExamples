@@ -61,6 +61,7 @@ print(myTuple[1])
 
 #dictionary = very similar to a hashmap
 myDict = {"Ken":43, "Will":9}
+ken_age = myDict["Ken"]  #Reading a value from a dict
 print(myDict["Ken"])
 myDict["Cheryl"]=43   #adding to a dict
 del myDict["Ken"]     #removing an item from the dict
